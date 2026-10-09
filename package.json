@@ -1,0 +1,8 @@
+{
+  "name": "flowpilot",
+  "private": true,
+  "description": "MVP de automação de processos empresariais.",
+  "scripts": {
+    "test": "node model.test.js"
+  }
+}
